@@ -42,6 +42,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Content Management Systems](#content-management-systems)
 - [Hardware](#hardware)
 - [Miscellaneous](#miscellaneous)
+- [Cheat Sheets](#cheatsheets)
 
 
 ## Platforms
@@ -395,6 +396,11 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Electronics](https://github.com/monostable/awesome-electronics) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
+
+
+## Cheatsheets
+
+- [Semver](http://ricostacruz.com/cheatsheets/semver.html) - cheat sheet for Semantic versioning + [Big collection](http://ricostacruz.com/cheatsheets/) of cheatsheets of the same author
 
 
 ## Miscellaneous
